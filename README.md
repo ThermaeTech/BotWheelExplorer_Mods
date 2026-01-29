@@ -13,6 +13,7 @@ The BotWheelExplorer can be purchased from the site link.
   - [Mid-360-Base](./GantryUnit/Mid-360-Base/)
   - [Voltmeter-Base](./GantryUnit/Voltmeter-Base/)
   - [PlateHolder](./GantryUnit/PlateHolder/)
+- [DC-DCCover](./DC-DC_Multi-output_Buck_Converter_Case/)
 
 ## Licence
 
