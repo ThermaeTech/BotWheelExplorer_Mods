@@ -1,7 +1,6 @@
 # Protective Housing for DFRobot DFR1015 DC-DC Buck Converter
 
 This is a 3D-printable protective case specifically designed for the DFRobot DC-DC Multi-output Buck Converter ([DFR1015](https://www.dfrobot.com/product-2599.html)).
-
 The housing is designed to shield the circuit board from dust and physical damage, and serves as a compact enclosure to facilitate easy integration into your electronics projects.
 
 ## Key Features & Specifications
