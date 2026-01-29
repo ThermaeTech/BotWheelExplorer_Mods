@@ -2,6 +2,7 @@
 
 This repository collects hardware mods to enable autonomous outdoor operation of ODrive's BotWheelExplorer.
 The BotWheelExplorer can be purchased from the site link.
+<https://shop.odriverobotics.com/products/botwheel-explorer>
 
 ## Mods
 
