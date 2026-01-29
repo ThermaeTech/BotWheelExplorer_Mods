@@ -5,14 +5,14 @@ The BotWheelExplorer can be purchased from the site link.
 
 ## Mods
 
-- WheelCover
-- GantryUnit
-  - GantryUnit-Base
-  - CornerCover
-  - E-Stop-Base
-  - Mid-360-Base
-  - Voltmeter-Base
-  - PlateHolder
+- [WheelCover](./WheelCover/)
+- [GantryUnit](./GantryUnit/)
+  - [GantryUnit-Base](./GantryUnit/GantryUnit-Base/)
+  - [CornerCover](./GantryUnit/CornerCover/)
+  - [E-Stop-Base](./GantryUnit/E-Stop-Base/)
+  - [Mid-360-Base](./GantryUnit/Mid-360-Base/)
+  - [Voltmeter-Base](./GantryUnit/Voltmeter-Base/)
+  - [PlateHolder](./GantryUnit/PlateHolder/)
 
 ## Licence
 
